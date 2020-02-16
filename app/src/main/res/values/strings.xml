@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Google Books</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_settings2">Settings</string>
+    <string name="search_engine_default_value">Google</string>
+    <string name="select_search_engine">Select Search Engine</string>
+    <string name="select_search_engine_key">list_preference_1</string>
+    <string name="feedback_key">feedback_key</string>
+    <string name="feedback_summary">We\'d love to hear your feedback and suggestions!</string>
+</resources>
